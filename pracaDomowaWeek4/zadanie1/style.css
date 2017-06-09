@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 50px auto;
+    border-style: double;
+    background-color: #99cccc;
+    text-align: center;
+
+}
+
+.nav{
+    width: 80%;
+    max-width: 1200px;
+    margin: 50px auto; 
+    border-style: double;
+    background-color: #99cccc;
+    text-align: center;
+}
+
+
+
+
+.bold {
+    background-color: red;
+}

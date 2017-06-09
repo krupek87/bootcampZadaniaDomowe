@@ -1,0 +1,22 @@
+h2 {
+  font-size: 7vmin;
+  margin-top:7vmin;
+}
+
+.section {
+  width:40vmin;
+  height: 30vmin;
+  background: black;
+  margin: 10vmin auto;
+}
+
+.button {
+  display: block;
+  width: 40vmin;
+  height: 10vmin;
+  background: black;
+  border-radius:20px;
+  color:white;
+  font-size: 4vmin;
+  margin: 10vmin auto;
+}
